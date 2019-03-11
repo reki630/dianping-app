@@ -5,9 +5,11 @@
 
 安装与运行程序：
 克隆项目
-> $ git clone https://github.com/CanFoo/react.git
+> $ git clone 
+
 进入项目目录安装依赖包
 > $ npm install
+
 启动项目
 > $ npm run start
 
